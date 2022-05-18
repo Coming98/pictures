@@ -1,7 +1,7 @@
 # Pictures
 
 #### 介绍
-博客图床
+Typora Pictures upload
 
 #### 软件架构
 软件架构说明

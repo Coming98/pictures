@@ -1,7 +1,7 @@
 # Pictures
 
 #### Description
-博客图床
+Typora Pictures upload
 
 #### Software Architecture
 Software architecture description
